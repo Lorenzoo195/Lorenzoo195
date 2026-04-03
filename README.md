@@ -10,12 +10,11 @@ Si te interesa conocer mi trayectoria profesional previa, ¡te invito a conectar
 
 ---
 
-### 💻 Tecnologías y Herramientas
+### 📈 Mis Estadísticas en GitHub
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postgres,html,css,js,aws,git,vscode" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorenzoo195&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzoo195&layout=compact&theme=tokyonight&v=1"/>
 </div>
 
 ---
