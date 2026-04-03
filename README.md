@@ -19,15 +19,6 @@ Si te interesa conocer mi trayectoria profesional previa, ¡te invito a conectar
 
 ---
 
-### 📈 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorenzoo195&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzoo195&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lacarte/)
